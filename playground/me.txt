@@ -1,6 +1,0 @@
-{{#user}}
-Name: vignesh
-Skills: HTML, CSS, JS, Next.js
-Email: vignesha445@gmail.com
-{{/user}}
-
